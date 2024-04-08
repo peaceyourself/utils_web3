@@ -1,0 +1,23 @@
+{
+  "name": "utils_web3",
+  "version": "1.0.0",
+  "description": "自己常用的一些工具方法",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "shin",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "flatted": "^3.3.1",
+    "json-bigint": "^1.0.0",
+    "json5": "^2.2.3",
+    "shell-oooooyoung": "^1.1.11"
+  },
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.4.0"
+  }
+}

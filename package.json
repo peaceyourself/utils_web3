@@ -1,6 +1,6 @@
 {
   "name": "utils_web3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "自己常用的一些工具方法",
   "main": "index.js",
   "type": "module",
